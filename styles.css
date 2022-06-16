@@ -136,7 +136,7 @@ input:invalid {
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 650px) {
     body{
         display: block;
         height: 100%;
